@@ -62,9 +62,9 @@
             this.label1.ForeColor = System.Drawing.Color.Black;
             this.label1.Location = new System.Drawing.Point(12, 446);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(177, 35);
+            this.label1.Size = new System.Drawing.Size(237, 35);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Build 2020.v2";
+            this.label1.Text = "Build 2020.v2 0.10";
             // 
             // lb_info
             // 
@@ -94,6 +94,7 @@
             this.Name = "frm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Tela_Splash";
+            this.Load += new System.EventHandler(this.frm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

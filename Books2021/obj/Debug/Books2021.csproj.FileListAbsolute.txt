@@ -14,3 +14,5 @@ C:\Users\igorg\Documents\Projetos\Books2021\Books2021\obj\Debug\ResolveAssemblyR
 C:\Users\igorg\Documents\Projetos\Books2021\Books2021\obj\Debug\Books2021.frm.resources
 C:\Users\igorg\Documents\Projetos\Books2021\Books2021\obj\Debug\Books2021.Properties.Resources.resources
 C:\Users\igorg\Documents\Projetos\Books2021\Books2021\obj\Debug\Books2021.csproj.GenerateResource.Cache
+C:\Users\igorg\Documents\Projetos\Books2021\Books2021\obj\Debug\Books2021.Login.Login.resources
+C:\Users\igorg\Documents\Projetos\Books2021\Books2021\obj\Debug\Books2021.Acesso_rapido.acesso_inst.resources

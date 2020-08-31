@@ -33,8 +33,15 @@ namespace Books2021
             {
                 Controlador_Tempo.Stop();
                 this.Visible = false;
+                Books2021.Login.Login lg = new Books2021.Login.Login();
+                lg.Show();
             }
             
+        }
+
+        private void frm_Load(object sender, EventArgs e)
+        {
+
         }
 
     }
