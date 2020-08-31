@@ -1,0 +1,16 @@
+C:\Users\igorg\AppData\Local\Temporary Projects\Books2021\bin\Debug\Books2021.exe
+C:\Users\igorg\AppData\Local\Temporary Projects\Books2021\bin\Debug\Books2021.pdb
+C:\Users\igorg\AppData\Local\Temporary Projects\Books2021\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\igorg\AppData\Local\Temporary Projects\Books2021\obj\Debug\Books2021.frm.resources
+C:\Users\igorg\AppData\Local\Temporary Projects\Books2021\obj\Debug\Books2021.Properties.Resources.resources
+C:\Users\igorg\AppData\Local\Temporary Projects\Books2021\obj\Debug\Books2021.csproj.GenerateResource.Cache
+C:\Users\igorg\AppData\Local\Temporary Projects\Books2021\obj\Debug\Books2021.exe
+C:\Users\igorg\AppData\Local\Temporary Projects\Books2021\obj\Debug\Books2021.pdb
+C:\Users\igorg\Documents\Projetos\Books2021\Books2021\obj\Debug\Books2021.exe
+C:\Users\igorg\Documents\Projetos\Books2021\Books2021\obj\Debug\Books2021.pdb
+C:\Users\igorg\Documents\Projetos\Books2021\Books2021\bin\Debug\Books2021.exe
+C:\Users\igorg\Documents\Projetos\Books2021\Books2021\bin\Debug\Books2021.pdb
+C:\Users\igorg\Documents\Projetos\Books2021\Books2021\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\igorg\Documents\Projetos\Books2021\Books2021\obj\Debug\Books2021.frm.resources
+C:\Users\igorg\Documents\Projetos\Books2021\Books2021\obj\Debug\Books2021.Properties.Resources.resources
+C:\Users\igorg\Documents\Projetos\Books2021\Books2021\obj\Debug\Books2021.csproj.GenerateResource.Cache
